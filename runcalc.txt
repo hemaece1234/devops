@@ -1,5 +1,5 @@
 stage('build') {
     steps {
-        sh 'python abc.py'
+        sh 'python calculator.py'
     }
 }
